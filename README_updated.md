@@ -5,7 +5,7 @@ https://www.mdsec.co.uk/2023/09/the-not-so-pleasant-password-manager/
 
 ## Simple Python decryptor
 
-Query to find stored credential objects:
+Query to find stored credential objects in MSSQL db:
 ```sql
 SELECT Name,Notes,Username,Password FROM dbo.CredentialObject;
 ```
