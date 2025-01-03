@@ -1,1 +1,2 @@
-According to the article "The Not So Pleasant Password Manager" and PoC: https://github.com/mdsecactivebreach/PleasantTools. The added simple `decrypt.py` script can be used when one has access to the Pleasant Password Server database.
+Follows "The Not So Pleasant Password Manager" article and PoC: https://github.com/mdsecactivebreach/PleasantTools. 
+The simple `decrypt.py` script I added can be used when having access to the Pleasant Password Server database to recover the plaintext password/s. 
